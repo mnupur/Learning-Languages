@@ -1,4 +1,4 @@
-AMS
+Learning Languages
 ===
 
-Assignment Management System
+Learning new languages and trying to apply them.
